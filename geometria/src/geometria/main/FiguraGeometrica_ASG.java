@@ -1,3 +1,4 @@
+package geometria.main;
 
 public abstract class FiguraGeometrica_ASG {
 

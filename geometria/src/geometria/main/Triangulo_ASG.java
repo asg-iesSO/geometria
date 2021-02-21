@@ -1,3 +1,4 @@
+package geometria.main;
 
 public class Triangulo_ASG extends FiguraGeometrica_ASG {
 	private double lado1;

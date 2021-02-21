@@ -1,3 +1,4 @@
+package geometria.main;
 
 public class Rectangulo_ASG extends FiguraGeometrica_ASG {
 	private double l1;
