@@ -6,6 +6,9 @@ public class Circulo_ASG extends FiguraGeometrica_ASG {
 	
 	public Circulo_ASG(double r, String tipoFigura) {
 		super(tipoFigura);
+		if(r<0) {
+			r = Math.abs(r);
+		}
 		radio = r;
 	}
 
